@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Work+Sans:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap');
 
 :root {
   font-size: 18px;
@@ -13,7 +14,7 @@ body {
   place-items: center;
   background-color: #191920;
   color: white;
-  font-family: 'Work Sans', sans-serif;
+  font-family: 'Roboto Mono', sans-serif;
 }
 
 h1 {
